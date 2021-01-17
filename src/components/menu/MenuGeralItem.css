@@ -1,0 +1,23 @@
+.menu-geral-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    cursor: pointer;
+}
+
+.menu-geral-category {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.menu-geral-category i {
+    margin: -5px;
+    padding: 0px;
+}
+
+.menu-geral-category span {
+    margin: 0px;
+    padding: 0px;
+}

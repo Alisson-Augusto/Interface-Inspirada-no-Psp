@@ -1,0 +1,7 @@
+span, p {
+    text-shadow: 2px 2px 4px black;
+}
+
+nav span, img {
+    margin-left: 10px;
+}

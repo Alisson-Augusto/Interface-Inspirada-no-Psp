@@ -1,0 +1,30 @@
+.menu-item-header {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+}
+
+.title {
+    font-size: 1.2rem;
+    margin-bottom: 0px;
+    margin-top: 0px;
+}
+
+.hr {
+    border-style: solid;
+    border-width: 0px 0px 1px 0px;
+}
+
+.menu-item-header p {
+    margin: 0px;
+}
+
+.menu-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.menu-item i {
+  margin: 0px;
+}
